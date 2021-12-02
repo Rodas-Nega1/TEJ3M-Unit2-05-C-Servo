@@ -3,7 +3,7 @@
   Created By: Rodas Nega
  
   This program initiates a rotational cycle for
-  the servo at a degree of 90 and back to 0 every 
+  the servo at a degree of 180 and back to 0 every 
   one second interval
 */
 
