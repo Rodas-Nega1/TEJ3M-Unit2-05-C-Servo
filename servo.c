@@ -18,7 +18,7 @@ void setup() {
 }
 
 void loop() {
-  servo.write(90);
+  servo.write(180);
   delay(1000); // Wait for 1000 millisecond(s)
   servo.write(0);
   delay(1000); // Wait for 1000 millisecond(s)
